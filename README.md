@@ -4,8 +4,6 @@
 
 <div>
   <ul>
-    <li>C</li>
-    <li>Python</li>
     <li>JS</li>
     <li>HTML</li>
     <li>CSS</li>
